@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #34495e;
+}
+
+p {
+  color: #f00;
+}
+#myForm{
+text-align: left;
+}
+
+#s1{
+background-color:hotpink;
+font-size:25px;
+
+}
